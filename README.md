@@ -1,7 +1,8 @@
 # T2-Veristream
  
 **T2-VeriStream** is a Windows desktop tool for de-encapsulating and inspecting T2-MI (DVB-T2 Modulator Interface) streams. It allows broadcast engineers to analyse T2-MI packets, extract the inner transport stream, and play back the decoded video — all from a simple GUI.
- 
+
+![T2-VeriStream Screenshot](t2-veristream.png)
 ---
  
 ## Requirements
