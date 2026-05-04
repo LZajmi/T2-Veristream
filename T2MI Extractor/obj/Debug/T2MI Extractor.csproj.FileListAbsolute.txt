@@ -1,0 +1,67 @@
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe.config
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.pdb
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csprojAssemblyReference.cache
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.g.cs
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\App.g.cs
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.cache
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.lref
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.baml
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.g.resources
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI_Extractor.Properties.Resources.resources
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.GenerateResource.cache
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CoreCompileInputs.cache
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.exe
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.pdb
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.dll
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.dll
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.dll
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.xml
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.xml
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.xml
+G:\C# Projects\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CopyComplete
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe.config
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.pdb
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.dll
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.dll
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.dll
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.xml
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.xml
+F:\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.xml
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csprojAssemblyReference.cache
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.g.cs
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\App.g.cs
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.cache
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.lref
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.baml
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.g.resources
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI_Extractor.Properties.Resources.resources
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.GenerateResource.cache
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CoreCompileInputs.cache
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CopyComplete
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.exe
+F:\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.pdb
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe.config
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.exe
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\T2MI Extractor.pdb
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.dll
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.dll
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.dll
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.xml
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControl.WPF.xml
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\bin\Debug\ConsoleControlAPI.xml
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.cache
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor_MarkupCompile.lref
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.g.resources
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI_Extractor.Properties.Resources.resources
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.csproj.CopyComplete
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.exe
+C:\Users\User\Desktop\Local Files\T2mi\T2MI Analyzer\T2MI Extractor\obj\Debug\T2MI Extractor.pdb
