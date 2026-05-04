@@ -21,7 +21,7 @@
  
 ## Usage
  
-1. **Browse**: Select a recorded T2-MI stream file.
+1. **Browse**: Select a recorded T2-MI stream file.(Download a T2MI sample at: https://1drv.ms/v/c/2679e13edd60481c/IQDwNcC1w3zgTI3tVg9sQwsYATzKb7F4yWkQFZtOOSO4kog?e=UgXYUb)
 2. **Analyse TS**: Reads the stream and displays the T2-MI tables and PLP information.
 3. **Extract Content**: De-encapsulates the T2-MI stream and writes the output file (e.g. `extr_name_of_stream.ts`) to the same directory as the source file.
 4. **Play**: Opens the extracted transport stream in VLC for video playback.
